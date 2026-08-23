@@ -30,5 +30,3 @@ Run the following block inside your primary code cell to fulfill package depende
 
 ---
 
-## 🧩 Architectural Code Workflow
-
